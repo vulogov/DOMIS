@@ -27,8 +27,13 @@ Root:
 Notation:
     "." | "," | "!" | "?"
 ;
+
+PURECONS:
+    "B" | "C" | "D" | "F" | "G" | "K" | "L" | "R" | "T"
+;
+
 PCONSONANT:
-    "B" | "C"
+
 ;
 SCONSONANT:
     "B" | "C" | "BH"
